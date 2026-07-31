@@ -1,0 +1,11 @@
+*.o
+*.so
+*.a
+build/
+.env
+__pycache__/
+*.swp
+.idea/
+*.bak
+node_modules/
+*.pyc
